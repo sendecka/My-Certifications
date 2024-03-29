@@ -3,6 +3,7 @@
 ## DataCamp - Data Scientist in Python📊
 
 * Introduction to Python
+![certificate](certyfications/certificate.pdf)
 * Intermediate Python
 * Data Manipulation with pandas
 * Joining Data with pandas
@@ -24,3 +25,23 @@
 * Supervised Learning with scikit-learn
 * Unsupervised Learning in Python
 * Machine Learning with Tree-Based Models in Python
+
+
+
+## DataCamp - Data Analyst in SQL 📊
+
+* Introduction to SQL
+* Intermediate SQL
+* Joining Data in SQL
+* Data Manipulation in SQL
+* PostgreSQL Summary Stats and Window Functions
+* Functions for Manipulating Data in PostgreSQL
+* Introduction to Statistics
+* Exploratory Data Analysis in SQL
+* Data-Driven Decision Making in SQL
+* Understanding Data Visualization
+* Data Communication Concepts
+
+
+
+
