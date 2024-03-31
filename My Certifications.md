@@ -3,7 +3,7 @@
 ## DataCamp - Data Scientist in Python📊
 
 * Introduction to Python
-![certificate](workspaces/codespaces-blank/certifications/certyfikat.png)
+![certificate](certifications/certyfikat.png)
 * Intermediate Python
 * Data Manipulation with pandas
 * Joining Data with pandas
