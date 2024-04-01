@@ -34,7 +34,7 @@
 * Introduction to SQL
 ![certificate](certifications/certificateSQL1.png)
 * Intermediate SQL
-![certificate](certifications/certificateSQL2png)
+![certificate](certifications/certificateSQL2.png)
 * Joining Data in SQL
 ![certificate](certifications/certificateSQL3.png)
 * Data Manipulation in SQL
