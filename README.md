@@ -30,26 +30,26 @@
 
 ## DataCamp - Data Analyst in SQL 📊
 
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL.png)
+![certificate](certifications/certificateSQL.png)
 * Introduction to SQL
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL1.png)
+![certificate](certifications/certificateSQL1.png)
 * Intermediate SQL
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL2png)
+![certificate](certifications/certificateSQL2png)
 * Joining Data in SQL
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL3.png)
+![certificate](certifications/certificateSQL3.png)
 * Data Manipulation in SQL
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL4.png)
+![certificate](certifications/certificateSQL4.png)
 * PostgreSQL Summary Stats and Window Functions
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL5.png)
+![certificate](certifications/certificateSQL5.png)
 * Functions for Manipulating Data in PostgreSQL
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL6.png)
+![certificate](certifications/certificateSQL6.png)
 * Introduction to Statistics
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL7.png)
+![certificate](certifications/certificateSQL7.png)
 * Exploratory Data Analysis in SQL
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL8.png)
+![certificate](certifications/certificateSQL8.png)
 * Data-Driven Decision Making in SQL
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL9.png)
+![certificate](certifications/certificateSQL9.png)
 * Understanding Data Visualization
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL10.png)
+![certificate](certifications/certificateSQL10.png)
 * Data Communication Concepts
-![certificate](/workspaces/codespaces-blank/certifications/certificateSQL11.png)
+![certificate](certifications/certificateSQL11.png)
