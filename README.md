@@ -3,7 +3,7 @@
 ## DataCamp - Data Scientist in Python📊
 
 
-![certificate](certifications/certificate(1).png)
+![certificate](certifications/certificate%20(1).png)
 * Introduction to Python
 ![certificate](certifications/certificate.png)
 * Intermediate Python
