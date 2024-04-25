@@ -74,3 +74,30 @@ Through a series of questions on a range of topics, we are able to establish tha
 #### Practical exam submission
 
 This stage of the certification allows the candidate to demonstrate that they are able to put together their skills to solve problems they will experience in the real world. The candidate must complete a series of tasks to clean and prepare data, and result in the correct data.
+
+# I completed the educational paths: 📊 🎓 ✔️
+
+## DataCamp - Associate Data Scientist in Python 📊
+
+![certificate](certifications/certificateDSWP.png)
+
+[Link to My DataCamp - Associate Data Scientist in Python coding journey.](https://github.com/sendecka/DataCamp/tree/main/DataCamp)
+
+## DataCamp - Associate Data Analyst in SQL 📊
+
+![certificate](certifications/certificateADAIS.png)
+
+[Link to My DataCamp - Associate Data Analyst in SQL coding journey.](https://github.com/sendecka/DataCamp/tree/main/DataCamp%20Data%20Analyst%20in%20SQL)
+
+## DataCamp - Data Analyst with Python 📊
+
+![certificate](certifications/certificateDAWP.png)
+
+[Link to My DataCamp - Data Analyst with Python coding journey.](https://github.com/sendecka/DataCamp/tree/main/DataCamp%20Data%20Analyst%20in%20SQL/01%20Introduction%20to%20SQL)
+
+## DataCamp - Data Analyst with R 📊
+
+![certificate](certifications/certificateDSWR.png)
+
+[Link to My DataCamp - Data Analyst with R coding journey.](https://github.com/sendecka/DataCamp/tree/main/Data_Analyst_with_R)
+
